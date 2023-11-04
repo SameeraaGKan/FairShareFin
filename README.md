@@ -1,0 +1,2 @@
+# FairShareFin
+Inclusivity for finance!
